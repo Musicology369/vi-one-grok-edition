@@ -37,6 +37,31 @@ A decentralized network of AI agents that autonomously manage the entire music v
 
 3. **CircularEconomyAgent (The 9)**  
    Orchestrates all 6 circular flows and 9 stages of the music journey.
+   ## Decentralized Storage Layer — The Infinite Garden Roots (CROPS-Aligned)
+
+MusicoLogy 369 is built as true **sanctuary technology**, fully aligned with Ethereum’s CROPS mandate (Censorship & capture resistance, Resistance, Open source, Privacy, Security).
+
+### Dual Storage Trinity (Equal Integration)
+We integrate **both** IPFS/Filecoin and Swarm natively and equally:
+
+- **IPFS + Filecoin** (Protocol Labs — Juan Benet)  
+  Permanent, content-addressed storage for public tracks, remixes, open-source orchestra files, and discovery metadata. Infinite reach and true permanence.
+
+- **Swarm** (Swarm Foundation — Viktor Tron)  
+  Ethereum-native, incentivized storage + communication for private/token-gated content, fan communities, agent memory, and circular rewards data. Deep EVM integration and built-in privacy tools.
+
+- **CROPS Governance Layer** (Ethereum Foundation — Vitalik Buterin)  
+  Every storage decision, agent action, and royalty flow must pass the CROPS test. No capture, no censorship, fully open-source, private where needed, secure by design.
+
+### Circular Storage Mechanics
+- The CircularEconomyAgent (The 9) automatically dual-pins every upload to both networks.  
+- 0.01% of every transaction + a portion of the 3.69% platform fee flows into storage incentives on **both** IPFS/Filecoin and Swarm — true regenerative funding.  
+- Agents monitor and repair across both layers so the garden stays alive forever.
+
+This is not “choose one.”  
+This is **harmony** — IPFS as the wide-open canopy, Swarm as the deep Ethereum roots, CROPS as the sacred soil.
+
+**Guiding Spirits:** Juan Benet, Viktor Tron, and Vitalik Buterin — thank you for the foundation.
 
 ### 6 Circular Flows
 1. Economic  
