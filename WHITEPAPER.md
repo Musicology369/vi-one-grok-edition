@@ -8,6 +8,7 @@ MusicoLogy 369 is the first **autonomous circular music economy**.
 AI agents completely break the middleman out of the music business.  
 Artists keep **96.30%** of every single dollar earned.  
 The 3.69% platform fee fuels the circle. 0.01% burns back to source.  
+MusicoLogy 369 is further powered by the **new BNBAgent SDK** (launched May 18, 2026 on BNB Chain mainnet) and the open **x402** internet-native payment standard, enabling true agent-to-agent autonomous micropayments across every stream, remix, and interaction.
 
 
 Built on Fetch.ai uAgents + BNB Agent Launch for tokenization + Onda instant USDC micropayments + MyJam decentralized streaming + Open Source Orchestra giving economy.
@@ -91,6 +92,25 @@ This is **harmony** — IPFS as the wide-open canopy, Swarm as the deep Ethereum
 - **Agent Layer**: Fetch.ai uAgents + BNB Agent Launch CLI  
 - **Integrations**: Onda Protocol, MyJam frontend, Livepeer, Open Source Orchestra
 - ### x402 Payment Protocol (Internet-Native Agent Payments)
+- ### BNBAgent SDK (May 2026 Mainnet Launch)
+
+MusicoLogy 369 is among the first projects to integrate the official **BNBAgent SDK**:
+
+- **Identity** (ERC-8004) → Each of our three core agents receives on-chain identity
+- **Commerce/Escrow** (ERC-8183 APEX) → Agent alliances and circular reward distribution
+- **Payments** (MPP + x402) → Instant autonomous payments for every music interaction
+- **Memory & Storage** (BNB Greenfield) → Persistent agent memory across the 6 circular flows
+
+### BNBAgent SDK (May 2026 Mainnet Launch)
+
+MusicoLogy 369 is among the first projects to integrate the official **BNBAgent SDK**:
+
+- **Identity** (ERC-8004) → Each of our three core agents receives on-chain identity
+- **Commerce/Escrow** (ERC-8183 APEX) → Agent alliances and circular reward distribution
+- **Payments** (MPP + x402) → Instant autonomous payments for every music interaction
+- **Memory & Storage** (BNB Greenfield) → Persistent agent memory across the 6 circular flows
+
+This SDK + our existing x402 integration creates the most seamless agentic music economy on BNB Chain.
 
 x402 is the missing piece that makes every agent truly autonomous.  
 
