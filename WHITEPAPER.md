@@ -105,33 +105,46 @@ $CREA (flagship token) • $MUSICO (musician support) • $TAURO (open-source or
 
 This 4-pillar structure allows the ecosystem to grow from music (the original proof) to all creators while remaining fully open-source, modular, and permissionless.
 
-## Technical Architecture
-- **Smart Contracts**: RoyaltySplitter369.sol (96.30/3.69/0.01 logic)  
-- **Agent Layer**: Fetch.ai uAgents + BNB Agent Launch CLI  
-- **Integrations**: Onda Protocol, MyJam frontend, Livepeer, Open Source Orchestra
-- ### x402 Payment Protocol (Internet-Native Agent Payments)
-- ### BNBAgent SDK (May 2026 Mainnet Launch)
+## CREATIONology369 — The Complete 4-Pillar, 12-Agent Circular Creator Economy
 
-MusicoLogy 369 is among the first projects to integrate the official **BNBAgent SDK**:
+CREATIONology369 is the umbrella brand for the open-source, permissionless creator economy built on **four pillars** and **12 agents**. Musicology369 remains the foundational pillar and org name, while CREATIONology represents the full vision for all creators.
 
-- **Identity** (ERC-8004) → Each of our three core agents receives on-chain identity
-- **Commerce/Escrow** (ERC-8183 APEX) → Agent alliances and circular reward distribution
-- **Payments** (MPP + x402) → Instant autonomous payments for every music interaction
-- **Memory & Storage** (BNB Greenfield) → Persistent agent memory across the 6 circular flows
+### Pillar 1 – Foundation Trinity (MUSICO · TAURO · CREA)
+- MUSICO Agent
+- TAURO Agent (open-source Taurus orchestrator)
+- CREA Agent
 
-### BNBAgent SDK (May 2026 Mainnet Launch)
+### Pillar 2 – Circularity Power Layer (ROYA · DISCO · CIRCU)
+- Royalty Agent ($ROYA)
+- Discovery Agent ($DISCO)
+- Circularity Agent ($CIRCU)
 
-MusicoLogy 369 is among the first projects to integrate the official **BNBAgent SDK**:
+### Pillar 3 – CREATEocol Communal Vortex Layer (SOCIA · SPIRI · CROPS)
+- Social Agent ($SOCIA)
+- Spiritual / Harmony Agent ($SPIRI)
+- CROPS / Steward Agent ($CROPS) — the 9th divine infinite garden steward
 
-- **Identity** (ERC-8004) → Each of our three core agents receives on-chain identity
-- **Commerce/Escrow** (ERC-8183 APEX) → Agent alliances and circular reward distribution
-- **Payments** (MPP + x402) → Instant autonomous payments for every music interaction
-- **Memory & Storage** (BNB Greenfield) → Persistent agent memory across the 6 circular flows
+### Pillar 4 – Personalized Trinity (SHAKA · OSO · JAI)
+- Shaka Digital Twin ($SHAKA) — Shaka Lei Kaumaka’s public face and steward
+- Open-Source Orchestra Agent ($OSO)
+- JingJai Bestie Bot ($JAI) — personal companion
 
-This SDK + our existing x402 integration creates the most seamless agentic music economy on BNB Chain.
+**Flagship Ecosystem Token: $OLOGY**  
+$OLOGY is the single overarching token that represents the entire CREATIONology369 circular economy. It is **not** an individual agent token — it governs, stakes, and accrues value across all pillars and agents.
 
-x402 is the missing piece that makes every agent truly autonomous.  
+**Token Strategy**  
+Individual agents may receive their own tokenized identities via BNB Agent Launch bonding curves where appropriate. $OLOGY serves as the unifying flagship token for the whole ecosystem.
 
+**BNB Agent SDK Integration Plan**  
+All agents will be built using the official BNB Agent SDK (live on mainnet since May 2026), leveraging:
+- ERC-8004 Identity for on-chain agent registration
+- ERC-8183 (APEX) for commerce & escrow
+- MPP + x402 for autonomous payments
+- BNB Greenfield for persistent memory & storage
+
+We start one agent at a time, beginning with the Pillar 1 foundation agents, then expanding pillar by pillar until the full 12-agent system is live.
+
+This 4-pillar design keeps the core open-source and permissionless while allowing personalized forks (like Pillar 4) to emerge as gifts to the world.
 **How it works in MusicoLogy 369:**
 - Any content or service (track streaming, remix access, metadata query, live session) is protected by x402 middleware.
 - When an agent or user requests access → server replies with HTTP 402.
